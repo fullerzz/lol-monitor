@@ -96,7 +96,7 @@ class Summoner:
         client = self.twilio
 
         messages_l = ['You\'ll get them next time!', 'Practice makes perfect!', 'Unlucky!']
-        messages_w = ['Nice job!', 'Wow that\'s amazing!', 'What a performance!', 'Teach me your ways!.']
+        messages_w = ['Nice job!', 'Wow that\'s amazing!', 'What a performance!', 'Teach me your ways!']
 
         person = self.name
         random.seed()
