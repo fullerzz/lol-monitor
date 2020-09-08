@@ -11,3 +11,5 @@ The program makes use of the Riot Games API along with the Twilio API for sendin
 * Program will make a request to retrieve the match history of each player and then compares the most recent match id to the one stored in the file.
 * If they are different, the player data file is updated and a message is sent to me and my two friends containing details about the match.
 
+## Example of SMS Sent by Bot
+![example_lol_sms_bot_text](https://user-images.githubusercontent.com/26610175/92522600-dd373e00-f1d3-11ea-93d2-39f5edda5a62.jpg)
